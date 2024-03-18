@@ -5,5 +5,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=admiral-simo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 # ✉️ Contact Me
-- Email: mohamedkhalis@proton.me
+- Email: [mohamedkhalis@proton.me](mailto:mohamedkhalis@proton.me)
+
 
